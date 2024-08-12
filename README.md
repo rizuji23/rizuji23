@@ -4,6 +4,8 @@
 
 <p align="left">My name is M Rizki Fauzi, As a Full Stack Developer with interests in Web Development, Data Science, and Machine Learning, I have built a strong foundation of skills and experience in creating dynamic and innovative digital solutions. With expertise in several programming languages, I bring a diverse set of skills to the table, enabling me to tackle complex problems and develop robust applications.<br><br>As a Web Developer, I have experience in creating and optimizing websites using HTML, CSS, JavaScript, TypeScript, Python, Java, and various web frameworks such as React, Angular, Django, Flask, Laravel and Java Spring. My background in Data Science and Machine Learning has allowed me to incorporate data-driven insights and predictive modeling into my development process, resulting in better user experiences and better business outcomes.</p>
 
+<p align="left">My other open source projects: <br> <a href="https://drive.google.com/drive/folders/1QVEzZb-myAah5oYVRrf_KZ7Migk1zAAv?usp=drive_link" target="_blank">Open Source Link</a></p>
+
 ###
 
 <div align="left">
